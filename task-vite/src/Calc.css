@@ -1,0 +1,32 @@
+
+td,th{
+    padding:10px;
+}
+.div1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100% ;
+}
+.divouter{
+    display: flex;
+    justify-content: space-around;
+    margin:auto 200px;
+    
+}
+.divin{
+    background-color: aqua;
+    border: 2px solid black;
+    margin:40px;
+}
+.divin2{
+    background-color: aquamarine;
+    border: 2px solid white;
+}
+table{
+    table-layout: fixed;
+    width: 100%;
+}
+.tb th{
+    border: 2px solid black;
+}
